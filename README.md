@@ -2,7 +2,7 @@
 
 Étudiante en Data Science, Management & Software Architecture (DAMS) – Polytech Montpellier  
 Passionnée par le développement front-end et l’expérience utilisateur  
-Objectif : concevoir des applications web modernes, performantes et bien structurées.
+Objectif : concevoir des applications modernes, performantes et bien structurées.
 
 ## Compétences techniques
 
