@@ -1,8 +1,20 @@
+<div align="center">
+
+# 👋 Bonjour
+
+[![🇫🇷 Français](https://img.shields.io/badge/🇫🇷-Français-blue?style=for-the-badge)](README.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸-English-lightgrey?style=for-the-badge)](README.en.md)
+
+</div>
+
+
 ## À propos de moi
 
 Étudiante en Data Science, Management & Software Architecture (DAMS) – Polytech Montpellier  
 Passionnée par le développement front-end et l’expérience utilisateur  
 Objectif : concevoir des applications modernes, performantes et bien structurées.
+
+
 
 ## Compétences techniques
 
@@ -23,15 +35,18 @@ Objectif : concevoir des applications modernes, performantes et bien structurée
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 
+
 ### Backend & API
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 
+
 ### Développement mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
 
 
 ### Bases de données
@@ -46,17 +61,3 @@ Objectif : concevoir des applications modernes, performantes et bien structurée
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<!--
-**myndie2/myndie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
