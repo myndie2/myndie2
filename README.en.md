@@ -10,8 +10,8 @@
 ## About Me
 
 Student in Data Science, Management & Software Architecture (DAMS) – Polytech Montpellier  
-Passionate about front-end development and user experience  
-Goal: designing modern, efficient, and well-structured applications.
+Passionate about full-stack development and software architecture   
+Objective: Contribute to the development of maintainable software solutions and be involved in every stage of the development process, from database design to the user interface.
 
 
 ## Technical Skills
